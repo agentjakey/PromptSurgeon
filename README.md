@@ -24,8 +24,6 @@ Primary model: `claude-haiku-4-5-20251001` | 20 scenarios x 10 replicates = 200 
 | Structured | 149 | 66.0% | [59.5%, 73.0%] |
 | **Overspecified** | **245** | **39.5%** | **[33.0%, 46.5%]** |
 
-![](https://github.com/agentjakey/PromptSurgeon/blob/main/ps_strategy_comparison.png)
-
 **Pairwise comparisons vs. Minimal baseline (95% bootstrap CI on delta):**
 
 | Strategy | Delta | 95% CI | p-value | Verdict |
@@ -150,6 +148,17 @@ ps_forest_plot.png          pairwise effect forest plot
 ps_cost_perf.png            cost vs. performance scatter
 ps_beforeafter.png          minimal / minimal / Opus-revised before-after comparison
 ```
+
+---
+
+## Images Outputted
+
+<img width="989" height="489" alt="image" src="https://github.com/user-attachments/assets/8baccc03-3281-4fd6-9508-0d5f0b36f019" />
+<img width="1281" height="390" alt="image" src="https://github.com/user-attachments/assets/0a8f2efb-da9a-47d4-be09-1afa26f1119e" />
+<img width="889" height="390" alt="image" src="https://github.com/user-attachments/assets/ac20d58e-78b8-48aa-be52-ac247bf61bfe" />
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/d1955649-8ad5-445b-a79b-8e0ee9e4ee45" />
+<img width="889" height="489" alt="image" src="https://github.com/user-attachments/assets/d6ca9135-8db6-4cc3-ad2e-bf1fb33efde3" />
+
 
 ---
 
