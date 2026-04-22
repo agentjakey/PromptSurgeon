@@ -134,7 +134,7 @@ The cross-model fix is already applied in the notebook, copy and paste into cell
 
 ---
 
-## Outputs
+## Outputs After Running Notebook
 
 ```
 SURGERY_REPORT.md           full narrative report with all tables
