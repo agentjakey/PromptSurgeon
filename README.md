@@ -153,13 +153,23 @@ ps_beforeafter.png          minimal / minimal / Opus-revised before-after compar
 
 ## Images Outputted
 
+### Figure 1: Strategy Comparison w/ CI Bars
+
 <img width="989" height="489" alt="image" src="https://github.com/user-attachments/assets/8baccc03-3281-4fd6-9508-0d5f0b36f019" />
+
+### Figure 2: Per Scenario Breakdown Heatmap
 
 <img width="1281" height="390" alt="image" src="https://github.com/user-attachments/assets/0a8f2efb-da9a-47d4-be09-1afa26f1119e" />
 
+### Figure 3: Plot of Pairwise Differences vs Minimal
+
 <img width="889" height="390" alt="image" src="https://github.com/user-attachments/assets/ac20d58e-78b8-48aa-be52-ac247bf61bfe" />
 
+### Figure 4: Cost Performance Tradeoff
+
 <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/d1955649-8ad5-445b-a79b-8e0ee9e4ee45" />
+
+### Figure 5: Before and After Comparison
 
 <img width="889" height="489" alt="image" src="https://github.com/user-attachments/assets/d6ca9135-8db6-4cc3-ad2e-bf1fb33efde3" />
 
