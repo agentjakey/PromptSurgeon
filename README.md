@@ -23,6 +23,7 @@ Primary model: `claude-haiku-4-5-20251001` | 20 scenarios x 10 replicates = 200 
 | Instructed | 100 | 70.0% | [64.0%, 76.0%] |
 | Structured | 149 | 66.0% | [59.5%, 73.0%] |
 | **Overspecified** | **245** | **39.5%** | **[33.0%, 46.5%]** |
+
 ![](https://github.com/agentjakey/PromptSurgeon/blob/main/ps_strategy_comparison.png)
 
 **Pairwise comparisons vs. Minimal baseline (95% bootstrap CI on delta):**
